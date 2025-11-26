@@ -1,0 +1,45 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+faceenv/
+
+# Virtual environment config
+pyvenv.cfg
+
+# IDE
+.vscode/
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+# DeepFace
+.deepface/
+weights/
+
+# Test files and outputs
+response_*.json
+test_images/
+*.jpg
+*.jpeg
+*.png
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Package info (auto-generated)
+package_info.json

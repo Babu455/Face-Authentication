@@ -1,0 +1,58 @@
+{
+  "verification_result": "different person",
+  "similarity_score": 0.810562,
+  "bounding_boxes": {
+    "image1": {
+      "x": 138,
+      "y": 150,
+      "w": 100,
+      "h": 131,
+      "left_eye": [
+        227,
+        197
+      ],
+      "right_eye": [
+        187,
+        197
+      ],
+      "nose": [
+        220,
+        223
+      ],
+      "mouth_left": [
+        223,
+        245
+      ],
+      "mouth_right": [
+        188,
+        245
+      ]
+    },
+    "image2": {
+      "x": 1591,
+      "y": 997,
+      "w": 416,
+      "h": 559,
+      "left_eye": [
+        1967,
+        1229
+      ],
+      "right_eye": [
+        1858,
+        1220
+      ],
+      "nose": [
+        1981,
+        1334
+      ],
+      "mouth_left": [
+        1927,
+        1425
+      ],
+      "mouth_right": [
+        1840,
+        1412
+      ]
+    }
+  }
+}
